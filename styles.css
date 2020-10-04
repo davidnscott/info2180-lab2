@@ -20,19 +20,19 @@ header{
 	background-color:#63B3ED;
 	color:#FFFFFF;
 	flex-direction:column;
-	//padding:100px;
+	padding:50px;
 }
 main{
 	grid-row:2/3;
 	grid-column:1/2;
-	//padding:100px;
+	padding:50px;
 }
 aside{
 	grid-row:2/3;
 	grid-column:2/3;
 	display:flex;
 	flex-direction:column;
-	//padding:100x;
+	padding:30px;
 }
 footer{
 	grid-row:3/4;
@@ -78,7 +78,7 @@ h3{
 }
 .about{
 	background-color:#E2E8F0;
-	padding:20px;
+	padding:10px;
 }
 ul{
 	list-style-type:none;
